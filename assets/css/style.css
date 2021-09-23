@@ -51,7 +51,7 @@ a {
 }
 /* Header Styling end */
 
-/* Hero Styling start */
+/* Main Hero Styling start */
 .hero {
     height: 800px;
     width: 100%;
@@ -60,9 +60,9 @@ a {
     background-size: cover;
     background-position: center;
 }
-/* Hero styling end */
+/* Main Hero styling end */
 
-/* Content Styling start */
+/* Section Content Styling start */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -93,7 +93,7 @@ a {
 }
 /* Content Styling end */
 
-/* Benefits Styling start */
+/* Aside Benefits Styling start */
 .benefits {
     margin-right: 20px;
     padding: 20px;
