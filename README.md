@@ -12,3 +12,8 @@ This is a code refactoring project for Horiseon. This project was a project wher
 * added alt tags with descriptions
 * added comments
 * made html elements semantically correct.
+ 
+ ### Link to project - https://smashercoder.github.io/code-refactor/
+
+
+ ![image info](./assets/images/01-html-css-git-homework-demo.png)
